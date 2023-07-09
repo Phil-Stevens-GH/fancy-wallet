@@ -8,7 +8,7 @@ __pycache__/fancywallet.cpython-39.pyc
 .venv/bin/easy_install
 .venv/bin/easy_install-3.9
 .venv/bin/fancywallet
-.venv/bin/normalizer
+.venv/bin/normalizer 
 .venv/bin/pip
 .venv/bin/pip3
 .venv/bin/pip3.9

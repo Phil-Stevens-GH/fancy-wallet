@@ -1,6 +1,6 @@
 from click.testing import CliRunner
 import unittest
-from fancywallet import fancywallet
+from fancywallet import fancywallet 
 
 class FancyWalletGetPriceTests(unittest.TestCase):
 
