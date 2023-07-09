@@ -1,1 +1,1 @@
-# fancy-wallet 
+# ps-fancy-wallet 
