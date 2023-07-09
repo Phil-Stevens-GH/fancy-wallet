@@ -1,6 +1,6 @@
 import click
 import requests
-
+ 
 @click.group() 
 def fancywallet():
     '''
