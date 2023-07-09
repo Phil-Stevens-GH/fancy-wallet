@@ -2,6 +2,7 @@ from click.testing import CliRunner
 import unittest
 from fancywallet import fancywallet 
 
+#adding a comment to test the commit.
 class FancyWalletGetPriceTests(unittest.TestCase):
 
     def test_get_price_tsla_lower(self):
