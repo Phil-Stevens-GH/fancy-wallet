@@ -9,7 +9,7 @@ setup(
         'click',
         'requests'
     ],
-    version='0.0.2',
+    version='0.0.2', 
     entry_points='''
     [console_scripts]
     fancywallet=fancywallet:fancywallet
