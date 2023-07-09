@@ -1,1 +1,1 @@
-from fancywallet import fancywallet  
+from ps-fancywallet import ps-fancywallet  

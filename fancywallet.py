@@ -4,7 +4,7 @@ import requests
 #Adding a comment to test commit.
 
 @click.group() 
-def fancywallet():
+def ps-fancywallet():
     '''
     Fancy Commands to manage your assets
     '''
@@ -42,4 +42,4 @@ def get_stock_price(stock):
 
 get_group.add_command(get_stock_price)
 
-fancywallet.add_command(get_group)
+ps-fancywallet.add_command(get_group)
