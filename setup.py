@@ -9,7 +9,9 @@ setup(
         'click',
         'requests'
     ],
-    version='0.0.2', 
+    version='0.0.2',
+    long_description="""# Markdown supported!\n\n* Cheer\n* Celebrate\n""",
+    long_description_content_type='text/markdown',     
     entry_points='''
     [console_scripts]
     fancywallet=fancywallet:fancywallet
