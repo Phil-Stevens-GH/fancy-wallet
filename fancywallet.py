@@ -1,7 +1,7 @@
 import click
 import requests
 
-@click.group()
+@click.group() 
 def fancywallet():
     '''
     Fancy Commands to manage your assets

@@ -22,4 +22,4 @@ class FancyWalletGetPriceTests(unittest.TestCase):
         self.assertEqual(result.output, f'Company {company} not found!\n')
     
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 

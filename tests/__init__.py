@@ -1,1 +1,1 @@
-from fancywallet import fancywallet 
+from fancywallet import fancywallet  
