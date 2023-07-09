@@ -1,6 +1,6 @@
 from click.testing import CliRunner
 import unittest
-from psfancywallet import psfancywallet 
+from fancywallet import psfancywallet 
 
 #adding a comment to test the commit.
 class FancyWalletGetPriceTests(unittest.TestCase):
