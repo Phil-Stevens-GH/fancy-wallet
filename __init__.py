@@ -1,1 +1,0 @@
-from fancywallet import fancywallet 
